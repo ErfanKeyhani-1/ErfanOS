@@ -1,8 +1,9 @@
 # ErfanOS
-Small OS I am working on so I dont rely on the corrupt controlling government, and evil corporations.
+Small OS I am working on so I dont rely on the corrupt controlling government, and evil corporations like microsoft.
 
 
 now ya need these commands for it to work:
+
 Install NASM (if not already installed)
   ```bash
  sudo apt-get install nasm
