@@ -7,6 +7,7 @@ SECTIONS
     .text : {
         *(.text)
     }
+<<<<<<< HEAD
 
     .data : {
         *(.data)
@@ -15,5 +16,7 @@ SECTIONS
     .bss : {
         *(.bss)
     }
+=======
+>>>>>>> 9a8724aa6f9c0d05dc3ef20a621d698edb02f2c8
 }
 
