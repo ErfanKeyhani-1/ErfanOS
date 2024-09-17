@@ -12,8 +12,6 @@ Currently, ErfanOS includes:
 
 This project serves as both a learning experience and a foundation for a more comprehensive OS.
 
-## Motivation
-
 ErfanOS was created So we can all stay away from evil corporations and governments that secretly control us.
 
 ## Getting Started
