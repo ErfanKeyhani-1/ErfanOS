@@ -1,7 +1,7 @@
-ENTRY(boot_start)
+ENTRY(_start)
 SECTIONS
 {
-    . = 0x7C00;
+    . = 0x1000;
     .text : {
         *(.text)
     }
