@@ -1,3 +1,6 @@
+########### NOT WORKING, I HAVE BEEN LITERALLY DYING TO MAKE THE KEYBOARD DRIVER WORK IT DOES NOT WORK, WHAT?
+
+
 # ErfanOS
 
 ErfanOS is a custom operating system built from the ground up, aiming to provide users with full control and transparency.
