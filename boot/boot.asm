@@ -1,5 +1,6 @@
 ; boot.asm — stage-1 loader that prints A then C (or E on error)
-
+; Comments: Chatgpt
+; Code: Erfankeyhani-1, mr-3
 org 0x7c00
 bits 16
 sectors_to_load  equ 1      ; how many sectors (after the MBR) to pull in
@@ -13,7 +14,7 @@ start:
     mov ss, ax
     mov sp, 0x7C00
 
-    call print_W
+    call print_W ; just for funsies, not really needed
     call print_A
 
     ; Save boot drive (DL) for later
